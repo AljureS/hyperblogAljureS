@@ -1,0 +1,4 @@
+COMANDOS EN GIT BASH:
+
+- "cat archivo.txt": Es para ver el contenido del archivo en la terminal 
+- "history": para ver la historia de todas las acciones realizadas en el terminal 
