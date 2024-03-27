@@ -20,8 +20,13 @@ body {
     color: antiquewhite;
     margin: 0;
     padding: 0.5em;
-
+    
 }
+
+#tagline{
+    font-size: 15px;
+}
+
 
 #container h1{
     font-size: 25px;
