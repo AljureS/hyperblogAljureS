@@ -5,7 +5,9 @@ body {
     font-size: 20px;
     margin: 0;
     padding: 0;
+    background-color: grey;
 }
+
 
 #container {
     width: 70%;
@@ -13,6 +15,7 @@ body {
     text-align: left;
     border: 1px solid rgb(189, 189, 189);
     margin: 0 auto;
+    background-color: white;
 }
 
 #cabecera{
@@ -34,4 +37,9 @@ body {
 
 #post {
     padding: 1em
+}
+
+#logo{
+    width: 40px;
+    vertical-align: middle;
 }
